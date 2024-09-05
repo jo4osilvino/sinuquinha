@@ -1,0 +1,49 @@
+body {
+  color: white;
+  background: rgb(54, 62, 66);
+  margin: 30px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+header {
+  border-bottom: solid 20px rgb(243, 240, 236);
+  padding: 40px;
+  font-size: 90px;
+  color: rgb(252, 254, 255);
+  margin-top: 70px;
+  margin: 70px;
+}
+
+section {
+  background: rgb(54, 62, 66);
+  padding-bottom: 45px;
+  padding-top: 45px;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+}
+
+
+
+h1 {
+  font-size:70px;
+}
+
+h2 {
+  font-size: 60px;
+  margin-left: 150px;
+} 
+
+
+ img {  
+  height: 400px;
+width: 700px;
+opacity: o.5;
+}
+
+.categoria-videos {
+  display: flex;
+}
